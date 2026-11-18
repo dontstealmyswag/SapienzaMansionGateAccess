@@ -1,2 +1,0 @@
-# SapienzaMansionGateAccess
-RELEASE THE GUARDS

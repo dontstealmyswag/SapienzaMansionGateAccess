@@ -4,7 +4,7 @@
   "name": "Sapienza Mansion Gate Access",
   "description": "Opens the Sapienza mansion gate and moves the mission-specific invisible collision blocker.",
   "authors": ["dontstealmyswag"],
-  "frameworkVersion": "2.33.40",
+  "frameworkVersion": "2.33.45",
   "version": "0.1.0",
   "contentFolders": ["content"]
 }
